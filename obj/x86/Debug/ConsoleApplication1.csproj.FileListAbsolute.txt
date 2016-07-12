@@ -2,3 +2,4 @@ D:\Prerna\KZA\CSharpProj\ConsoleApplication1\ConsoleApplication1\bin\Debug\Conso
 D:\Prerna\KZA\CSharpProj\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\Prerna\KZA\CSharpProj\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 D:\Prerna\KZA\CSharpProj\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Prerna\KZA\CSharpProj\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

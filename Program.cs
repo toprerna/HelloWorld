@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string name = "C Sharp";
+            string name = "World";
 
             // See if an argument was passed from the command line
             if (args.Length == 1)
