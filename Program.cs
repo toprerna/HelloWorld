@@ -18,6 +18,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello again & again, " + name + "!");
             Console.WriteLine("Hello " + name + ". Today is the 14th of July");
             Console.WriteLine("Testing");
+            Console.WriteLine("Testing 11");
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
         }
