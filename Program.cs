@@ -15,7 +15,8 @@ namespace ConsoleApplication1
             if (args.Length == 1)
                 name = args[0];
 
-            Console.WriteLine("Hello again & again, " + name + "!");
+            Console.WriteLine("Hello again & again, " + name + ". Today is the 14th of July!");
+            Console.WriteLine("Hello " + name + ". Toda");
             Console.WriteLine("Press any key to exit");
             Console.ReadKey();
         }
